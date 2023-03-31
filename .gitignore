@@ -1,1 +1,7 @@
 /automation/yolov8x-seg.pt
+/automation/dataset/*
+/automation/fine_tune_dataset/test/*
+/automation/fine_tune_dataset/train/*
+/automation/output/frames/*
+/automation/output/masks/*
+/automation/output/gei/*
